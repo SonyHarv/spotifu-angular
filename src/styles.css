@@ -25,4 +25,5 @@ body {
   padding: 0;
   background-color: var(--black);
   font-family: var(--baseFontFamily);
+  color: var(--white);
 }
